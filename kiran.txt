@@ -1,8 +1,12 @@
 Tis is Git Repository
 
+<<<<<<< HEAD
 This is a Current Repository
 
 
 
 
 hajsjasaklkal;klkadkl;akdlkaldkla
+=======
+hai, how are you
+>>>>>>> 7e62b6dd5958eed0a982633080a37d0d00bc99b3
